@@ -5,3 +5,5 @@ streamlit.header('Your name:')
 streamlit.text('tinguuu')
 streamlit.text('pinguuuu')
 streamlit.text('kukuu baby')
+streamlit.text('maikina baby')
+

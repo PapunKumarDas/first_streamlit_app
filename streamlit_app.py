@@ -10,4 +10,7 @@ streamlit.title('hey Srichandan')
 streamlit.title('hey duguu')
 streamlit.header('Your name:')
 streamlit.text('swapna- andara')
+streamlit.text('swati- andara')
+
+
 

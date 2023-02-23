@@ -8,11 +8,8 @@ import streamlit
 # streamlit.text('maikina baby')
 streamlit.title('hey Srichandan')
 streamlit.title('hey duguu')
-streamlit.header('Your name:')
-streamlit.text('swapna- andara')
-streamlit.text('swati- andara')
-streamlit.text('laxmiii- andara')
-streamlit.text('chup mg')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 
 
